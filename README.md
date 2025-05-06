@@ -14,7 +14,7 @@
 
 # Installation and Setup 
 - **1. Clone the repository**
-- git clone https://github.com/andersn0002/Eathai.git
+- git clone https://github.com/yuyasano0096/Eathai.git
 - **2. Navigate to the project directory**
 - cd Eathai.git
 - **3. Install the dependencies**
