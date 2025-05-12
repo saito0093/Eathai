@@ -12,35 +12,6 @@
 - Smooth Animations: Implemented interactive animations to enhance user experience.
 - Responsive Design: fully responsive for Mobile screen sizes.
 
-# Installation and Setup 
-- **1. Clone the repository**
-- git clone https://github.com/yuyasano0096/Eathai.git
-- **2. Navigate to the project directory**
-- cd Eathai.git
-- **3. Install the dependencies**
-- npm install
-- **4. Start the development server**
-- npm run dev
-# Project Structure
-```plaintext
-MATRIXLAB/     
-├── public/            
-├── src/               
-│   └── app/
-│        └── components                               
-├── .eslintrc.json      
-├── .gitignore          
-├── netlify.toml       
-├── next-env.d.ts      
-├── next.config.mjs    
-├── package-lock.json  
-├── package.json        
-├── postcss.config.mjs 
-├── README.md           
-├── tailwind.config.ts 
-├── tsconfig.json       
-
-
 
 
 
